@@ -21,3 +21,4 @@ password_generator(symbols, letters, numbers)
 random.shuffle(ls)
 string = ''.join(ls)
 print(string)
+ 

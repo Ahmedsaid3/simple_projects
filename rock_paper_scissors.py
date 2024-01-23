@@ -25,7 +25,7 @@ scissors = '''
 ---.__(___)
 '''
 
-
+ 
 import random
 ls = [rock,paper,scissors]
 COMPUTERS_CHOICE = random.randint(0,2)
